@@ -5,3 +5,9 @@
 ![Paso 2](previews/2.png)
 
 ![Paso 3](previews/3.png)
+
+
+- [API HTTP](http://httpbin.org)
+
+- [API HTTP](https://htmlpdfapi.com)
+
