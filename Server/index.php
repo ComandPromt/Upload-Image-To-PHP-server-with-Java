@@ -1,6 +1,7 @@
 <?php      
-//var_dump($_POST);
-//var_dump($_FILES);
+
+mkdir("imagenes",0777);
+
 if (isset($_FILES['archivo'])) {
     $file = $_FILES["archivo"];
     $tipo = $file['type'];
